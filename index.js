@@ -2,12 +2,12 @@ const express = require('express');
 const mongoose = require('mongoose');
 const path = require('path');
 
-const configRouter = require('./route/config');
-const userRouter = require('./route/user');
-const gamesRouter = require('./route/games');
-const decorationRouter = require('./route/decoration');
-const mailboxRouter = require('./route/mailbox');
-const friendRouter = require('./route/friend');
+const configRouter = require('./router/config');
+const userRouter = require('./router/user');
+const gamesRouter = require('./router/games');
+const decorationRouter = require('./router/decoration');
+const mailboxRouter = require('./router/mailbox');
+const friendRouter = require('./router/friend');
 
 const databaseConfig = require('./config/database');
 
