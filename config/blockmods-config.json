@@ -2,7 +2,7 @@
     "isShowActivity": true,
     "activityVersionCode": 0,
     "isShowPartyInvite": false,
-    "newGratitudeUrl": "https://discord.gg/USSYEHU2TH",
+    "newGratitudeUrl": "http://192.168.99.116:8899/",
     "adsConfig": {
         "mainAdsCD": 300.0,
         "mainAdsGray": 0.0,
